@@ -1,6 +1,6 @@
 import React from 'react'
-import WebDevImage from '../../assets/images/WebDevImage.jpg'
-import WebDevImage2 from '../../assets/images/WebDevImage2.jpg'
+import WebDevImage from '../../assets/images/webdevimage.jpg'
+import WebDevImage2 from '../../assets/images/webdevimage2.jpg'
 
 const Projects = () => {
   return (
